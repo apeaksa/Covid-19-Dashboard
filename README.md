@@ -13,4 +13,4 @@ Choropleth Plotly.ipynb- Getting Geopandas data of INDIA STATE and creating a ch
 Thankyou,
 
 Dashboard link:  https://plotly.com/~apeaksa2208/0/covid-19-tracker-india/
-![image](https://github.com/apeaksa/Covid-19-Dashboard/assets/134456792/b4c12bc1-3985-401f-a409-c84d965e519a)
+
